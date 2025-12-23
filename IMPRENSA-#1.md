@@ -68,6 +68,8 @@ Graves violações de direitos humanos não podem ser ocultadas sob o status de 
 
 ## 2) Reality Shows
 
+### Big Brother
+
 A privacidade constitui um direito humano básico, reconhecido como elemento indispensável à dignidade, à autonomia moral e à liberdade individual. Não se trata apenas de um interesse subjetivo, mas de um limite normativo que organiza a convivência social, protegendo os indivíduos contra formas arbitrárias de vigilância, exposição e controle. À luz desse princípio, os reality shows de vigilância contínua — como Big Brother — assumem um papel particularmente problemático no ecossistema midiático contemporâneo.
 
 Esses formatos se estruturam a partir da exposição sistemática da intimidade, convertendo a vida privada em espetáculo permanente. Embora amparados por contratos de consentimento, operam em um contexto de forte assimetria de poder entre participantes e corporações de mídia, nas quais o controle sobre enquadramento, edição, circulação e exploração econômica das imagens é inteiramente corporativo. A privacidade, nesse modelo, deixa de ser um direito inviolável e passa a ser tratada como um recurso transacionável, cuja renúncia é apresentada como pré-requisito para visibilidade, reconhecimento e mobilidade social.
@@ -83,6 +85,18 @@ O aspecto mais crítico emerge no efeito de transbordamento social dessas práti
 Nesse cenário, o consentimento deixa de ser critério central para a avaliação ética da exposição. A ideia de interesse público, engajamento ou entretenimento passa a justificar a invasão da privacidade, mesmo quando o sujeito vigiado não tem voz, controle narrativo ou possibilidade de defesa. A mediação institucional presente no reality show — ainda que problemática — desaparece, dando lugar a formas autônomas e difusas de vigilância social.
 
 Em síntese, reality shows como Big Brother não apenas exploram a privacidade como conteúdo, mas atuam ativamente na erosão de seu estatuto como direito humano fundamental. Ao incentivar o telespectador a invadir, julgar e explorar a intimidade alheia, ao corporativizar essas práticas e ao contribuir para sua reprodução não consentida no espaço social mais amplo, esses formatos participam de um processo cultural mais amplo de normalização da vigilância e rebaixamento dos limites éticos da exposição humana. O risco não está apenas no espetáculo televisivo, mas na transformação duradoura do imaginário social, no qual a privacidade deixa de ser percebida como um direito inviolável e passa a ser tratada como obstáculo negociável à curiosidade, ao julgamento e ao lucro.
+
+ ### Aberto ao Público - Passa o Telefone
+
+O quadro “Passa o Telefone”, do programa de TV aberta Aberto ao Público, consiste em situações em que os participantes entregam voluntariamente seus celulares aos apresentadores ou comediantes para brincadeiras ao vivo. Do ponto de vista legal e técnico, essa prática não configura invasão de dispositivo ou violação de privacidade, uma vez que o ato ocorre com consentimento explícito do dono do aparelho e em um contexto controlado de entretenimento. 
+
+No entanto, mesmo com o consentimento dos participantes, o modo como o quadro é apresentado ao público pode ter implicações indiretas na percepção social da privacidade digital. Espectadores que assistem ao programa presenciam o ato de “invadir” o celular, embora de forma humorística e consensual, e isso pode gerar uma percepção de que mexer em dispositivos alheios é algo trivial ou aceitável. A linha entre humor e conduta social torna-se difusa, especialmente para pessoas com menor conhecimento sobre segurança digital, levando à possibilidade de banalização de comportamentos que, fora do contexto da TV, seriam ilegais ou antiéticos.
+
+Do ponto de vista psicológico e sociológico, existe um fenômeno conhecido como “normalização de comportamento”: quando uma ação é repetidamente exibida em mídias de massa como divertida, aceitável ou sem consequências sérias, o público pode internalizar a ideia de que tal comportamento é socialmente permitido. No caso do quadro, a interação humorística com os celulares dos participantes, ainda que consensual, pode contribuir para a percepção de que invasão de dispositivos ou violação de privacidade são atividades leves ou inofensivas, mesmo que o programa não forneça qualquer instrução técnica ou incentivo direto a praticar crimes digitais.
+
+É importante destacar que essa influência é indireta e perceptual, não configurando incentivo técnico ou legal. O programa não ensina hacking, nem promove a exploração de vulnerabilidades, nem incentiva práticas ilegais. No entanto, do ponto de vista cultural e de percepção pública, a dramatização do ato de “invadir” um celular pode, em certa medida, reduzir a percepção de gravidade associada a crimes de invasão de dispositivos informáticos. Essa distinção entre efeito social/perceptual e promoção real de crime cibernético é crucial para uma análise ética e crítica do conteúdo midiático.
+
+Em síntese, o quadro “Passa o Telefone” é seguro e legal, pois depende do consentimento dos participantes e se limita a uma dinâmica de entretenimento. Contudo, pode exercer um efeito indireto na audiência ao banalizar a ideia de invasão de privacidade, influenciando a percepção social sobre a seriedade desses crimes, mesmo sem estimular ou ensinar técnicas ilegais. Esse fenômeno evidencia a importância de se diferenciar rigorosamente entre o impacto cultural de um conteúdo de mídia e a sua relação com a prática real de crimes digitais.
 
 ## 3) Infraestrutura Aeroespacial da OTAN
 
