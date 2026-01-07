@@ -1,0 +1,70 @@
+## Sindrome de Havana (Ismael)
+
+Segue lista de sintomas relacionados aos ataques conduzidos pela unidade da OTAN em posse de ISMAEL HOMEM DE OLIVEIRA:
+
+- Foliculite;
+- Erupçoes Cutaneas (2-5mm);
+- Sensação de Queimação (Pele e Orgãos Internos);
+- Prurido (Pele, Couro Cabeludo, Nariz, Anus, Nádegas, Axilas, Canal Auricular e Bolsa Escrotal);
+- Cabelos Ressecados Quebradiços;
+- Feridas de Difícil Cicatrização (Refratária/Crônica);
+- Dor de Dente;
+- Visão Embassada;
+- Sangramento Anormal (Hemorragia persistente/prolongada);
+- Dores nos Testículos;
+- Queimaduras de Primeiro e Segundo Graus nos Pés (Calos);
+- Otite (Dor de Ouvido);
+- Ferida nas Orelhas (Tubérculo de Darwin);
+- Coriza
+- Seios Doloridos
+- Prurido Vaginal
+- Manchas/Feridas/Queimaduras nos antebraços (Cutâneo Lateral);
+- Vontade Súbita de Urinar;
+- Vontade Súbita de Defecar;
+- Gases/Desconforto intestinal;
+- Constirpação;
+- Salivação;
+- Sede Intensa;
+- Queimação no Ânus;
+- Dores Musculares;
+- Lábios Ressecados/Queimados;
+- Dores nas Juntas/Articulações;
+- Contrações Musculares Involuntárias;
+- Dores Abaixo da Unha do Dedão do Pé;
+- Feridas Superficiais (Dor Insuportável);
+- Dermatite Actínica Bolhosa/Eritema Solar;
+- Envelhecimento Precoce da Pele;
+- Gastrite/Refluxo;
+- Infecções Intestinais;
+- Insônia (Tensão Muscular, Prurido, Sensação de Calor, Pontos de Pressão, Formigamento, Tosse)
+- Meias Puídas;
+- Calçados Danificados;
+- Espinhas (Acne) Persistentes;
+- Ressecamento do Cotovelo;
+- Zumbido/Abafamento nos Ouvidos;
+- Queimação nas Nádegas ao Sentar;
+- Ardência da Glânde;
+- Mamilos Irritados/Queimados;
+- Atividade Fetal Aumentada;
+- Dor no Diafragma (dor diafragmática);
+- Dor Atrás dos Olhos;
+- Tosse Persistente;
+- Pesadelos/Sonhos Recorrentes;
+- Ouvir Vozes (Abafadas);
+- Cólicas Menstruais;
+- Tatuagens de Dificil Cicatrização e/ou Doloridas;
+- Sangramento em Pintas/Verrugas;
+- Perda de Obturação Dentária;
+- Fratura Dentária;
+- Dor de Garganta;
+- Falta de Ar;
+- Dores ao Redigir Manuscritos;
+- Pensamentos Recorrentes;
+- Esquecimento Frequente;
+- Pontadas;
+- Varizes;
+- Calafrios/Arrepios (Couro Cabeludo/Pescoço);
+- Sensação de Estufamento Estomacal;
+- Feridas Entre os Dedos dos Pés;
+- Tontura/Vertigem;
+- Sensação Gustativa Atípica;
