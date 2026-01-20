@@ -1,22 +1,25 @@
-## Sindrome de Havana (Ismael)
+# Sindrome de Havana (Ismael)
 
-Segue lista de sintomas relacionados aos ataques conduzidos pela unidade da OTAN em posse de ISMAEL HOMEM DE OLIVEIRA:
+Segue lista de sintomas relacionados aos ataques conduzidos pela unidade da OTAN em posse de ISMAEL HOMEM DE OLIVEIRA.
+Os sintomas são causados por uma Arma de Energia Direcionada (DEW) baseada em microondas (HPM/MASER) embarcada em satelites que possui precisão milimétrica e poder de penetração no organismo humano.
 
+## Sintomas Físicos
 - Foliculite;
 - Erupçoes Cutaneas (2-5mm);
 - Sensação de Queimação (Pele e Orgãos Internos);
-- Prurido (Pele, Couro Cabeludo, Nariz, Anus, Nádegas, Axilas, Canal Auricular e Bolsa Escrotal);
-- Cabelos Ressecados Quebradiços;
+- Prurido (Pele, Couro Cabeludo, Nariz, Anus, Nádegas, Axilas, Canal Auricular, Vagina, Bolsa Escrotal);
+- Cabelos Ressecados/Quebradiços na Pontas/Descoloridos;
 - Feridas de Difícil Cicatrização (Refratária/Crônica);
 - Dor de Dente;
-- Visão Embassada;
+- Visão Embaçada (ao focar assuntos próximos);
 - Sangramento Anormal (Hemorragia persistente/prolongada);
-- Dores nos Testículos;
+- Dores nos Testículos (somente esquerdo ou somente direito);
 - Queimaduras de Primeiro e Segundo Graus nos Pés (Calos);
 - Otite (Dor de Ouvido);
 - Ferida nas Orelhas (Tubérculo de Darwin);
-- Coriza
-- Seios Doloridos
+- Coriza;
+- Seios Doloridos;
+- Ardência/Feridas nos Mamilos;
 - Prurido Vaginal
 - Manchas/Feridas/Queimaduras nos antebraços (Cutâneo Lateral);
 - Vontade Súbita de Urinar;
@@ -49,8 +52,6 @@ Segue lista de sintomas relacionados aos ataques conduzidos pela unidade da OTAN
 - Dor no Diafragma (dor diafragmática);
 - Dor Atrás dos Olhos;
 - Tosse Persistente;
-- Pesadelos/Sonhos Recorrentes;
-- Ouvir Vozes (Abafadas);
 - Cólicas Menstruais;
 - Tatuagens de Dificil Cicatrização e/ou Doloridas;
 - Sangramento em Pintas/Verrugas;
@@ -58,9 +59,7 @@ Segue lista de sintomas relacionados aos ataques conduzidos pela unidade da OTAN
 - Fratura Dentária;
 - Dor de Garganta;
 - Falta de Ar;
-- Dores ao Redigir Manuscritos;
-- Pensamentos Recorrentes;
-- Esquecimento Frequente;
+- Dores ao Redigir Manuscritos (Dedos/Mãos);
 - Pontadas;
 - Varizes;
 - Calafrios/Arrepios (Couro Cabeludo/Pescoço);
@@ -68,3 +67,19 @@ Segue lista de sintomas relacionados aos ataques conduzidos pela unidade da OTAN
 - Feridas Entre os Dedos dos Pés;
 - Tontura/Vertigem;
 - Sensação Gustativa Atípica;
+- Sangramento Nasal;
+- Tontura;
+- Visão turva ou embaçada;
+- Sensação de peso ou pressão na cabeça;
+- Fadiga;
+- Palpitações;
+- Formigamento nas costas/vértebras;
+- Formigamento na Bolsa Escrotal;
+
+## Sintomas Neurológicos
+- Pesadelos/Sonhos Recorrentes;
+- Ouvir Vozes (Abafadas);
+- Pensamentos Recorrentes;
+- Esquecimento Frequente;
+- Dificuldades de concentração e atenção
+- Lentificação cognitiva (“brain fog”)
