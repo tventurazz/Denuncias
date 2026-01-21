@@ -75,6 +75,7 @@ Os sintomas são causados por uma Arma de Energia Direcionada (DEW) baseada em m
 - Palpitações;
 - Formigamento nas costas/vértebras;
 - Formigamento na Bolsa Escrotal;
+- Torcicolo;
 
 ## Sintomas Neurológicos
 - Pesadelos/Sonhos Recorrentes;
