@@ -15,3 +15,27 @@ Os textos também contextualizam as denúncias em um cenário geopolítico mais 
 Do ponto de vista formal, a coleção não se apresenta como um conjunto de laudos técnicos, perícias independentes ou decisões judiciais conclusivas. Trata-se de um acervo declaratório-denunciante, caracterizado por linguagem assertiva, envio simultâneo a múltiplas autoridades civis e militares, organismos internacionais, embaixadas e meios de comunicação. A função principal do repositório é constituir um registro público contínuo das denúncias realizadas pelo autor, que afirma agir na condição de vítima direta e denunciante persistente diante da gravidade dos fatos alegados.
 
 Assim, o leitor deve compreender este conjunto documental como um dossiê de denúncias sobre o suposto uso criminoso de tecnologia militar sigilosa e de infraestrutura aeroespacial estratégica, no qual o autor busca expor, documentar e internacionalizar alegações que, segundo os próprios documentos, envolvem segredos de Estado, criminalidade organizada e graves violações de direitos humanos.
+
+## MIT License
+
+```
+Copyright (c) 2026 Tiago Ventura
+
+Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
+deste texto científico e dos arquivos associados (o "Texto"), para lidar com
+o Texto sem restrições, incluindo, mas não se limitando a, usar, copiar,
+modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do
+Texto, e permitir que pessoas a quem o Texto é fornecido o façam, sob as
+seguintes condições:
+
+Aviso de Copyright: O aviso de copyright acima e este aviso de permissão
+devem ser incluídos em todas as cópias ou partes substanciais do Texto.
+
+Isenção de Responsabilidade: O Texto é fornecido "como está", sem garantia de
+qualquer tipo, expressa ou implícita, incluindo, mas não se limitando a,
+garantias de comerciabilidade, adequação a um propósito específico e não
+violação. Em nenhuma circunstância os autores ou titulares do copyright
+serão responsáveis por quaisquer reclamações, danos ou outras responsabilidades,
+seja em uma ação de contrato, delito ou de outra forma, resultantes de, ou em
+conexão com, o uso ou outras transações do Texto.
+```
