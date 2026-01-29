@@ -22,7 +22,7 @@ Assim, o leitor deve compreender este conjunto documental como um dossiê de den
 Copyright (c) 2026 Tiago Ventura
 
 Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
-deste texto científico e dos arquivos associados (o "Texto"), para lidar com
+deste texto e dos arquivos associados (o "Texto"), para lidar com
 o Texto sem restrições, incluindo, mas não se limitando a, usar, copiar,
 modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do
 Texto, e permitir que pessoas a quem o Texto é fornecido o façam, sob as
